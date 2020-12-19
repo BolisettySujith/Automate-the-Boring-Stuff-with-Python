@@ -1,0 +1,14 @@
+7.What should the following two expressions evaluate to?
+
+'spam' + 'spamspam'
+'spam' * 3
+
+ANS:)
+
+'spam'+'spamspam'
+output : spamspamspam
+In this the '+' used as an string concatination operator, that  combines the strings into one
+
+'spam'*3 
+output :spamspamspam
+The expression evaluates to a single string value that repeats the original string value a number of time equal the integer , it's called as string replication

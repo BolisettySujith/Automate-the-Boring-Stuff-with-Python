@@ -1,0 +1,10 @@
+8. Why is eggs a valid variable name while 100 is invalid?
+
+ANS:)
+
+To declare a variable it has some naming formats
+1.It can use only letters, numbers, and the underscore (_) character.
+2.It can’t begin with a number.
+3.It can be only one word with no spaces.
+4.Expect underscore (_) character, remaining all characters are not allowed.
+So, eggs a valid variable name while 100 is invalid.

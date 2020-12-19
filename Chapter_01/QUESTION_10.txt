@@ -1,0 +1,9 @@
+10. Why does this expression cause an error? How can you fix it?
+
+'I have eaten ' + 99 + ' burritos.'
+
+ANS:)
+
+It will show error because integer itself cannot combined with a string, + operator can only add two integers and concatinate two strings.
+It can be fixed by converting the integer to string using str()function. 
+print('I have eaten ' + str(99) + ' burritos.')

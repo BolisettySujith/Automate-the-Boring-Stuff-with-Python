@@ -1,0 +1,16 @@
+Built-in-functions
+
+len() :
+It is a python built in function used to caliculate the length of the string in integer.
+Eg:
+	X = 'Hello world'
+	len(X)
+output :11 
+
+round() :
+It is a python built in function, when a floating-ponit number is entered it will figure out the nearest integer of that floating-point number. 
+Eg:
+	round(1.555)
+Output : 2
+	round(5.578, 2)
+output : 5.57  # it is because most most decimal fractions can’t be represented exactly as a float.  

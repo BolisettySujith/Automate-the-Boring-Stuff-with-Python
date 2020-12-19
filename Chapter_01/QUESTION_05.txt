@@ -1,0 +1,9 @@
+5.This chapter introduced assignment statements, like spam = 10. What is the difference between an expression and a statement?
+
+ANS:)
+
+1.A statement is a complete line or code which performs some action or work, while an expression will evaluates to a value.
+2.A statement can be written in a single line one after the other.
+3.while an expression can be written by combining another expression in to one single long line. 
+Eg :
+	spam = 10 # the whole line is represented as an expression, and value 10 assigning into spam is an expression.

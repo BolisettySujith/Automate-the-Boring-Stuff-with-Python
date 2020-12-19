@@ -1,0 +1,6 @@
+4.What is an expression made up of? What do all expressions do?
+
+ANS:)
+
+An expression is made up of values(such as integers, floating-point numbers)and operators(+,-,*,/,//,%) and Strings(such as 'a','hello').  
+An expression is the most basic kind of programming instruction in the language.They can be used any where in the code like for caliculating set of values.  

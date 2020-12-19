@@ -1,0 +1,8 @@
+3.Name three data types.
+
+ANS:)
+
+Data types :
+1.intergers
+2.floating-point numbers
+3.strings
