@@ -1,0 +1,5 @@
+10.What keys can you press if your program is stuck in an infinite loop?
+
+Ans:)
+
+Ctrl-c is the key if my program is stuck in an infinite loop

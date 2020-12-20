@@ -1,0 +1,6 @@
+7.Explain what a condition is and where you would use one.
+
+Ans:)
+
+A condition always evaluates down to a boolean value, it is true or not.
+It is used in a flow controlled statement.

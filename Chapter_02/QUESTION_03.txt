@@ -1,0 +1,14 @@
+3. Write out the truth tables of each Boolean operator (that is, every possible combination of Boolean values for the operator and what they evaluate to).
+
+Ans:)
+
+True and True is True
+True and False is False
+False and True is False
+False and False is False
+True or	True is True
+True or	False is true
+Flase or True is True
+False or False is False
+not True is False
+not False is True

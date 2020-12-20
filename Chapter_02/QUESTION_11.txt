@@ -1,0 +1,6 @@
+11.What is the difference between break and continue?
+
+Ans:)
+
+break - To exit from a loops, break function is used. if the Boolean expression is true after executing the expression
+continue - To continue the entire loop again after execution of that loop. 

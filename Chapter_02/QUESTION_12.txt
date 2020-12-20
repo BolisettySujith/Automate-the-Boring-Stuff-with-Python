@@ -1,0 +1,7 @@
+12. What is the difference between range(10), range(0, 10), and range(0, 10, 1) in a for loop?
+
+Ans:)
+
+range(10) : It will execute all the integers from 0 to 9.
+range(0,10) : It will execute all the integers from 0 to 9.
+range(0,10,1) : It will execute all the integers from 0 to 9, with a step 1. 

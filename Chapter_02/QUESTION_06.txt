@@ -1,0 +1,6 @@
+6. What is the difference between the equal to operator and the assignment operator?
+
+Ans:)
+
+'==' compares two values and it will equalates to Boolean expression
+'=' will assign a value to a variable

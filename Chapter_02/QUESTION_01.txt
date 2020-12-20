@@ -1,0 +1,6 @@
+1.What are the two values of the Boolean data type? How do you write them?
+
+ANS:)
+
+Boolean data type : True and False 
+T and F as capital letters and rest of all are small
